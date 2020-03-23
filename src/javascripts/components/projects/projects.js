@@ -3,7 +3,7 @@ import projectData from '../../helpers/data/projectData';
 
 const buildProjectCard = () => {
   let domString = '';
-  const projectDisplay = projectData.projects;
+  const projectDisplay = projectData.getProjects();
   if (projectDisplay.available === true) {
     domString += '<article class="projBox">';
     domString += `<h2 id="projTitle">${projectDisplay.title}</h2>`;

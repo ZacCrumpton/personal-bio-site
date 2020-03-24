@@ -5,7 +5,7 @@
 This project show cases all the knowledge i've gained during my first 6 months at NSS. It displays every project so far. A project in a project if you will.
 
 ## Feature List
-- This site shows a (currently not working) navbar.
+- This site shows a navbar that will take the user to different section of the page.
 
 - upon page load you will see a bio card with basic information about the creator
 

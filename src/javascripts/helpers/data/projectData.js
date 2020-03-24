@@ -17,6 +17,33 @@ const projects = [
     githubUrl: 'https://github.com/ZacCrumpton',
     available: true,
   },
+  {
+    title: 'untitled',
+    screenshot: 'N/A',
+    description: 'N/A',
+    techUsed: 'HTML5 CSS3 and JAVASCRIPT',
+    url: 'N/A',
+    githubUrl: 'https://github.com/ZacCrumpton',
+    available: false,
+  },
+  {
+    title: 'untitled',
+    screenshot: 'N/A',
+    description: 'N/A',
+    techUsed: 'HTML5 CSS3 and JAVASCRIPT',
+    url: 'N/A',
+    githubUrl: 'https://github.com/ZacCrumpton',
+    available: false,
+  },
+  {
+    title: 'untitled',
+    screenshot: 'N/A',
+    description: 'N/A',
+    techUsed: 'HTML5 CSS3 and JAVASCRIPT',
+    url: 'N/A',
+    githubUrl: 'https://github.com/ZacCrumpton',
+    available: false,
+  },
 ];
 
 const getProjects = () => projects;

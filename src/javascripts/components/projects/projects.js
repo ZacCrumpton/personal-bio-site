@@ -26,8 +26,8 @@ const buildProjectCard = (project) => {
     domString += '<section class="infoBox">';
     domString += `<p class="paraInfo">${project.description}</p>`;
     domString += `<p class="paraInfo">${project.techUsed}</p>`;
-    domString += `<p class="paraInfo"><a class="githubLinks" href="${project.url}"><h3>${project.title} github link</h3></a>`;
-    domString += `<p class="paraInfo"><a class="githubLinks" href="${project.githubUrl}">Zac Crumpton - GitHub</a>`;
+    domString += `<p class="paraInfo"><a class="githubLinks" href="${project.url}"><h3>${project.title} link</h3></a>`;
+    domString += `<p class="paraInfo"><a class="githubLinks" href="${project.githubUrl}">GitHub Link</a>`;
     domString += '</section>';
     domString += '</article>';
     domString += '</div>';

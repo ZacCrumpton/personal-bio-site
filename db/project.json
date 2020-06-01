@@ -12,7 +12,7 @@
     "title": "Pet Adoption",
     "screenshot": "https://github.com/ZacCrumpton/pet-adoption/raw/master/screenshot/pet-adoption.jpg",
     "description": "Pet-Adoption was mainly a porject based around using flexbox and its many different advantages. Please see the github readme if you'd like to know more",
-    "techUsed": "HTML5 CSS3 and JAVASCRIPT",
+    "techUsed": "<strong>This project invovled</strong>: HTML5 CSS3 and JAVASCRIPT",
     "url": "https://zc-pet-adoption.web.app/",
     "githubUrl": "https://github.com/ZacCrumpton",
     "available": true
@@ -21,18 +21,18 @@
     "title": "Dino Kennel",
     "screenshot": "https://raw.githubusercontent.com/ZacCrumpton/dino-kennel/master/screenshots/dino-kennel-1.png",
     "description": "this is a small dino pet simulator. It was extrememly fun to work on and even more of a brain twister at first.",
-    "techUsed": "HTML5 CSS3 and JAVASCRIPT",
+    "techUsed": "<strong>This project invovled</strong>: HTML5 CSS3 and JAVASCRIPT",
     "url": "https://zc-dino-kennel.web.app",
     "githubUrl": "https://github.com/ZacCrumpton",
     "available": true
   },
   "project4": {
-    "title": "untitled",
-    "screenshot": "N/A",
-    "description": "N/A",
-    "techUsed": "HTML5 CSS3 and JAVASCRIPT",
-    "url": "N/A",
+    "title": "Nautilus Explorer",
+    "screenshot": "https://github.com/nss-evening-cohort-11/nutshell-wookies/raw/master/screenshots/Nautilus-dashboard2.PNG",
+    "description": "Team project that required each individual to create a single page using firebase hosting. 3 of the pages share data to pass information into the respective fields.",
+    "techUsed": "<strong>This project invovled</strong>: HTML5, Sass, Bootstrap, Jquery, ES6 Modules, Webpack, Moment.js, Firebase and JAVASCRIPT",
+    "url": "https://nautilus-explorer.firebaseapp.com/",
     "githubUrl": "https://github.com/ZacCrumpton",
-    "available": false
+    "available": true
   }
 }

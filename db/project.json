@@ -5,7 +5,7 @@
     "description": "Chatty App was a group project where myself and 3 others were tasked with creating a messaging app. Please see the github readme for more information.",
     "techUsed": "<strong>This project invovled</strong>: HTML5 CSS3 SCSS javascript Jquery",
     "url": "https://zc-cobra-lilly.web.app",
-    "githubUrl": "https://github.com/ZacCrumpton",
+    "githubUrl": "https://github.com/ZacCrumpton/chatty-cobralily",
     "available": true
   },
   "project2": {
@@ -14,7 +14,7 @@
     "description": "Pet-Adoption was mainly a porject based around using flexbox and its many different advantages. Please see the github readme if you'd like to know more",
     "techUsed": "<strong>This project invovled</strong>: HTML5 CSS3 and JAVASCRIPT",
     "url": "https://zc-pet-adoption.web.app/",
-    "githubUrl": "https://github.com/ZacCrumpton",
+    "githubUrl": "https://github.com/ZacCrumpton/pet-adoption",
     "available": true
   },
   "project3": {
@@ -23,7 +23,7 @@
     "description": "this is a small dino pet simulator. It was extrememly fun to work on and even more of a brain twister at first.",
     "techUsed": "<strong>This project invovled</strong>: HTML5 CSS3 and JAVASCRIPT",
     "url": "https://zc-dino-kennel.web.app",
-    "githubUrl": "https://github.com/ZacCrumpton",
+    "githubUrl": "https://github.com/ZacCrumpton/dino-kennel",
     "available": true
   },
   "project4": {
@@ -32,7 +32,7 @@
     "description": "Team project that required each individual to create a single page using firebase hosting. 3 of the pages share data to pass information into the respective fields.",
     "techUsed": "<strong>This project invovled</strong>: HTML5, Sass, Bootstrap, Jquery, ES6 Modules, Webpack, Moment.js, Firebase and JAVASCRIPT",
     "url": "https://nautilus-explorer.firebaseapp.com/",
-    "githubUrl": "https://github.com/ZacCrumpton",
+    "githubUrl": "https://github.com/ZacCrumpton/nutshell-wookies",
     "available": true
   }
 }
